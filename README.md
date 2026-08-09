@@ -45,7 +45,6 @@ To run this tool you need to clone or download this tool.
 ## Output
 
 ![screenshot](https://raw.githubusercontent.com/blacknetid/VALIDATOR-EBAYV1.5/master/img/ress.png)
-![screenshot2](https://raw.githubusercontent.com/blacknetid/VALIDATOR-EBAYV1.5/master/img/ress2.png)
 
 This is the result if the code is successfully validation.
 
